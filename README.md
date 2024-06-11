@@ -42,10 +42,6 @@ Open `index.haml` in your web browser, and start exploring the solar system! Cli
 - Sumit Agnihotri
 - Ruby Poddar
 
-**Contributors:**
-
-- [Add your name here if you contribute!]
-
 **Badges:**
 
 [![GitHub issues](https://img.shields.io/github/issues/rubypoddar/Explore-Solar-System-)](https://github.com/rubypoddar/Explore-Solar-System-/issues)
